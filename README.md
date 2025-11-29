@@ -87,7 +87,7 @@ The application will be available at `http://localhost:5173`.
 ## Screenshots
 
 ### Home Page
-![Home Page Placeholder](path/to/screenshot_home.png)
+![Home Page Placeholder](
 *Modern landing page with hero section and post grid.*
 
 ### Single Post View
