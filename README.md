@@ -91,7 +91,7 @@ The application will be available at `http://localhost:5173`.
 *Modern landing page with hero section and post grid.*
 
 ### Single Post View
-![Single Post Placeholder](/screenshots/post.png)
+![Single Post Placeholder](/screenshots/posts.png)
 *Immersive reading experience with hero image.*
 
 ### Create/Edit Post
