@@ -87,15 +87,15 @@ The application will be available at `http://localhost:5173`.
 ## Screenshots
 
 ### Home Page
-![Home Page Placeholder](
+![Home Page Placeholder](/screenshots/home.png)
 *Modern landing page with hero section and post grid.*
 
 ### Single Post View
-![Single Post Placeholder](path/to/screenshot_post.png)
+![Single Post Placeholder](/screenshots/post.png)
 *Immersive reading experience with hero image.*
 
 ### Create/Edit Post
-![Form Placeholder](path/to/screenshot_form.png)
+![Form Placeholder](/screenshots/form.png)
 *Intuitive form for content creation.*
 
 ## License
